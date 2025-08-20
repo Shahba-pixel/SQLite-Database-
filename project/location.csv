@@ -1,0 +1,66 @@
+﻿location_id,name,country,region,gps_lat,gps_long,site_type,hazards
+1,Blue Hole,Egypt,Dahab,28.5711,34.5362,Sinkhole,Depth Hazards
+2,The Canyon,Egypt,Dahab,28.5715,34.537,Trench,Overhead Environment
+3,The Bells,Egypt,Dahab,28.5718,34.5375,Wall,Vertical Descent
+4,Lighthouse Reef,Egypt,Dahab,28.572,34.538,Training Site,None
+5,Eel Garden,Egypt,Dahab,28.5723,34.5385,Sandy Slope,Eel Burrows
+6,Three Pools,Egypt,Dahab,28.5726,34.539,Coral Pools,Shallow Entry
+7,Moray Garden,Egypt,Dahab,28.5729,34.5395,Reef,Moray Eels
+8,Golden Blocks,Egypt,Dahab,28.5732,34.54,Reef,Depth  
+9,The Islands,Egypt,Dahab,28.5735,34.5405,Coral Maze,Navigation
+10,The Cathedral,Egypt,Dahab,28.5738,34.541,Swim-through,Overhead Hazards
+11,Ras Mohammed,Egypt,Sharm El Sheikh,27.73,34.26,Marine Park,Drop-offs
+12,Shark Reef,Egypt,Sharm El Sheikh,27.731,34.261,Wall,Shark Sightings
+13,Yolanda Reef,Egypt,Sharm El Sheikh,27.732,34.262,Wreck Reef,Toilet Cargo
+14,Anemone City,Egypt,Sharm El Sheikh,27.733,34.263,Coral Garden,Delicate Fauna
+15,Ras Umm Sid,Egypt,Sharm El Sheikh,27.85,34.3,Wall Reef,Strong Current
+16,Temple Reef,Egypt,Sharm El Sheikh,27.9,34.3,Coral Heads,Surge
+17,Middle Garden,Egypt,Sharm El Sheikh,27.901,34.301,Reef,Boat Traffic
+18,Far Garden,Egypt,Sharm El Sheikh,27.902,34.302,Reef,Surge
+19,Jackson Reef,Egypt,Tiran,28,34.47,Reef,Strong Current
+20,Thomas Reef,Egypt,Tiran,28.01,34.47,Reef,Deep Canyon
+21,Woodhouse Reef,Egypt,Tiran,28.02,34.47,Reef,Drift Diving
+22,Gordon Reef,Egypt,Tiran,28.03,34.47,Reef,Wrech Hazards
+23,SS Thistlegorm,Egypt,Sha'ab Ali,27.81,33.92,Wreck  ,Penetration Risks
+24,Kingston Wreck,Egypt,Sha'ab Ali,27.79,33.91,Wreck,Shallow Surge
+25,Shag Rock,Egypt,Sha'ab Ali,27.8,33.9,Reef,Wreck Debris
+26,Abu Nuhas,Egypt,Gubal Strait,27,33.8,Wreck Cluster,Metal Debris
+27,Ghiannis D Wreck,Egypt,Gubal Strait,27.001,33.801,Wreck,Sharp Edges
+28,Carnatic Wreck,Egypt,Gubal Strait,27.002,33.802,Wreck,Fragile Structure
+29,Chrisoula K Wreck,Egypt,Gubal Strait,27.003,33.803,Wreck,Depth
+30,Kimon M Wreck,Egypt,Gubal Strait,27.004,33.804,Wreck,Limited Penetration
+31,Bluff Point,Egypt,Gubal Strait,27.005,33.805,Drift Site,Stron Currents
+32,The Barge,Egypt,Gubal Strait,27.006,33.806,Wreck,Low Visibility
+33,Umm Gammar,Egypt,Hurghada,27.3,33.85,Island Reef,Surge
+34,Carless Reef,Egypt,Hurghada,27.301,33.85,Island Reef,Open Water
+35,Abu Ramada,Egypt,Hurghada,27.25,33.85,Shore Dive,Variable Visibility
+36,Giftun Island,Egypt,Hurghada,27.2,33.85,Shore Dive,Boat Traffic
+37,Small Giftun,Egypt,Hurghada,27.21,33.86,Bay,Coral Fragility
+38,Sharm El Naga,Egypt,Hurghada,26.95,33.9,Shore Dive,Coral Fragility
+39,El Quseir,Egypt,El Quseir,26.1,34.28,Shore Dive,Rocky Entry
+40,Abu Dabab,Egypt,Marsa Alam,25.3333,34.75556,Shore Dive,Seagrass Beds
+41,Marsa Shagra,Egypt,Marsa Alam,25.1,34.9,Shore Dive,Rocky Entry
+42,Marsa Nakari,Egypt,Marsa Alam,25.05,34.9,Shore Dive,Low Visibility
+43,Masra Egla,Egypt,Marsa Alam,25.2,34.85,Shore Dive,Turtle Interactions
+44,Marsa Mubarak,Egypt,Marsa Alam,25.3,34.85,Shore Dive,Dugong Sightings
+45,Abu Dabab III,Egypt,Marsa Alam,25.34,34.75,Reef,Seagrass Beds
+46,Elphistone Reef,Egypt,Marsa Alam,25.31,34.87,Wall Reef,Strong Current
+47,Deadalus Reef,Egypt,Marsa Alam,24.97,35.87,Offshore Reef,Remote Access
+48,Abu Kafan,Egypt,Safaga,26.9,34,Plateau,Depth
+49,Panorama Reef,Egypt,Safaga,26.8,34.05,Drop-off,Strong Current
+50,Middle Reef,Egypt,Safaga,26.85,34.05,Reef,Navigation
+51,Erg Somaya,Egypt,Safaga,24.9,34.05,Pinnacle,Surge
+52,Sha'ab Malahi,Egypt,Fury Shoals,24.9,34.9,Reef Maze,Orientation
+53,Sha'ab Claudio,Egypt,Fury Shoals,24.9,34.9,Swim-through,Overhead Hazards
+54,Sha'a Maksur,Egypt,Fury Shoals,24.9,34.9,Wall Reef,Strong Current
+55,Sataya Sataya,Egypt,Fury Shoals,24.9,34.9,Lagoon,Dolphine Interactions
+56,Sataya South,Egypt,Fury Shoals,24.9,34.9,Lagoon,Dolphine Interactions
+57,Abu Galawa Soraya,Egypt,Fury Shoals,24.9,34.9,Wreck Reef,Coral Fragility
+58,Abu Galawa Kebir,Egypt,Fury Shoals,24.9,34.9,Reef,Wreck Penetration
+59,Claudia Reef,Egypt,Fury Shoals,24.9,34.9,Swim-through,Navigation
+60,St. John's Reef,,Deep South,23.9,35.5,Reef,Remote Access
+61,Om Sid,Egypt,Dahab,28.575,34.5435,Reef Garden,Strong Current
+62,Caves,Egypt,Dahab,28.5756,34.544,Swim-through,Surge
+63,Gabr El Bint,Egypt,Dahab,28.5759,28.5759,Wall Reef,Remote Access
+64,Shugarat,Egypt,Dahab,28.5762,34.545,Coral Garden,Surge
+65,Ras Abu Galum,Egypt,Dahab,28.5768,34.546,Lagoon,Remote Access

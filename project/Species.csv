@@ -1,0 +1,91 @@
+﻿species_id,common_name,scientific_name,category,conservation_status
+1,Green Turtle,Chelonia mydas,Reptile,Endangered
+2,Barracuda,Sphyraena barracuda,Fish,Least Concern
+3,Reef Shark,Carcharhinus perezi,Fish,Near Threatened
+4,Common Octupus,Octopus vulgaris,Cephalopod,Least Concern
+5,Yellow Seahorse,Hippocampus kuda,Fish,Vaunerable
+6,Manta Ray,Mobula birostris,Fish,Vaunerable
+7,Clownfish,Amphiprion ocellaris,Fish,Least Concern
+8,Giant Moray Eel,Gymnothorax javanicus,Fish,Least Concern
+9,Crown-of-Thorns Starfish,Acanthaster planci,Echinoderm,Least Concern
+10,Napoleon Wrasse,Cheilinus undulatus,Fish,Endangered
+11,Dugong,Dugong dugon,Mammal,Vaunerable
+12,Blue Tang,Paracanthurus hepatus,Fish,Least Concern
+13,Sea Cucumber,Holothuria edulis,Echinoderm,Least Concern
+14,Lionfish,Pterois volitans,Fish,Least Concern
+15,Loggerhead Turtle,Caretta caretta,Reptile,Vaunerable
+16,Blue Ringed Octupus,Hapalochlaena lunulata,Cephalopod,Least Concern
+17,Zebra Shark,Stegostoma fasciatum,Fish,Endangered
+18,Moorish Idol,Zanclus cornutus,Fish,Least Concern
+19,Giant Clam,Tridacna gigas,Mollusk,Vaunerable
+20,Harlequin Shrimp,Hymenocera picta,Crustacean,Least Concern
+21,Leafy Sea,Phycodurus eques,Fish,Near Threatened
+22,Cleaner Wrasse,Labroides dimidiatus,Fish,Least Concern
+23,Spotted Eagle Ray,Aetobatus narinari,Fish,Near Threatened
+24,Fire Goby,Nemateleotris magnifica,Fish,Least Concern
+25,Peacock Mantis Shrimp,Odontodactylus scyllarus,Crustacean,Least Concern
+26,Chocolate Chip Sea Star,Protoreaster nodosus,Echinoderm,Least Concern
+27,Blacktip Reef Shark,Carcharhinus melanopterus,Fish,Near Threatened
+28,Banggai Cardinalfish,Pterapogon kauderni,Fish,Endangered
+29,Nudibranch,Chromodoris lochi,Mollusk,Least Concern
+30,Sea Pen,Pteroeides sp.,Cnidarian,Least Concern
+31,Red Sea Bannerfish,Heniochus intermedius,Fish,Least Concern
+32,Masked Butterflyfish,Chaetodon semilarvatus,Fish,Least Concern
+33,Sohal Surgeonfish,Acanthurus sohal,Fish,Least Concern
+34,Oceanic Whitetip Shark,Carcharhinus longimanus,Fish,Vaunerable
+35,Hammerhead Shark,Sphyrna lewini,Fish,Critically Endangered
+36,Whale Shark,Rhincodon typus,Fish,Endangered
+37,Hawksbill Turtle,Eretmochelys imbricata,Reptile,Critically Endangered
+38,Cuttlefish,Sepia officinalis,Cephalopod,Least Concern
+39,Emperor Angelfish,Pomacanthus imperator,Fish,Least Concern
+40,Arabian Picasso Triggerfish,Rhinecanthus assasi,Fish,Least Concern
+41,Blue-spotted Stingray,Taeniura lymma,Fish,Least Concern
+42,Gunieafowl Pufferfish,Arothron meleagris,Fish,Least Concern
+43,Stellate Pufferfish,Arothron stellatus,Fish,Least Concern
+44,Painted Frogfish,Antennarius pictus,Fish,Least Concern
+45,Orange-lined Triggerfish,Balistapus undulatus,Fish,Least Concern
+46,Map Pufferfish,Arothron mappa,Fish,Least Concern
+47,Masked Pufferfish,Arothron diadematus,Fish,Least Concern
+48,White-spotted Pufferfish,Arothron hispidus,Fish,Least Concern
+49,Twoband Anemonefish,Amphiprion bicinctus,Fish,Least Concern
+50,Pinkbar Goby,Amblyeleotris aurora,Fish,Least Concern
+51,Scissortail Sergeant,Abudefduf sexfasciatus,Fish,Least Concern
+52,Five-banded Sergeant-major,Abudefduf vaigiensis,Fish,Least Concern
+53,Chinese Trumpetfish,Aulostomus chinensis,Fish,Least Concern
+54,Blacklip Butterflyfish,Chaetodon kleinii,Fish,Least Concern
+55,Lined Butterflyfish,Chaetodon lineolatus,Fish,Least Concern
+56,Tripletail Wrasse,Cheilinus trilobatus,Fish,Least Concern
+57,Five-lined Cardinalfish,Cheilodipterus quinquelineatus,Fish,Least Concern
+58,Grey Bamboo Shark,Chiloscyllium griseum,Fish,Vaunerable
+59,Blue-green Chromis,Chromis viridis,Fish,Least Concern
+60,Coral Hawkfish,Cirrhitichthys oxycephalus,Fish,Least Concern
+61,Striated Surgeonfish,Ctenochaetus striatus,Fish,Least Concern
+62,Oriental Flying Gurnard,Dactyloptena orientalis,Fish,Not Evaluated
+63,Whitetail Dascyllus,Dascyllus aruanus,Fish,Least Concern
+64,Zebra Lionfish,Dendrochirus zebra,Fish,Least Concern
+65,Long-spine Porcupinefish,Diodon holocanthus,Fish,Least Concern
+66,Banded Piperfish,Dunckerocampus dactyliophorus,Fish,Least Concern
+67,Snowflake Eel,Echidna nebulosa,Fish,Least Concern
+68,Sling-jaw Wrasse,Epibulus insidiator,Fish,Least Concern
+69,Bluespotted Cornetfish,Fistularia commersonnii,Fish,Least Concern
+70,Flowery Flounder,Bothus mancus,Fish,Least Concern
+71,Leopard Flounder,Bothus pantherinus,Fish,Least Concern
+72,Blue and Gold Fusilier,Caesio caerulaurea,Fish,Least Concern
+73,Comet,Calloplesiops altivelis,Fish,Least Concern
+74,Honeycomb Filefish,Cantherhines pardalis,Fish,Least Concern
+75,Valentini's Sharpnose Puffer,Canthigaster valentini,Fish,Least Concern
+76,Giant Trevally,Caranx ignobilis,Fish,Least Concern
+77,Blacktail Angelfish,Centropyge eibli,Fish,Least Concern
+78,Peacock Grouper,Cephalopholis argus,Fish,Least Concern
+79,Miniatus Grouper,Cephalopholis miniata,Fish,Least Concern
+80,Bicolour Parrotfish,Cetoscarus bicolor,Fish,Least Concern
+81,Threadfin Butterflyfish,Chaetodon auriga,Fish,Least Concern
+82,Red Sea Raccoon Butterflyfish,Chaetodon fasciatus,Fish,Least Concern
+83,Black-backed Butterflyfish,Chaetodon melannotus,Fish,Least Concern
+84,Bluecheek Butterflyfish,Chaetodon semilarvatus,Fish,Near Threatened
+85,Triangulate Butterflyfish,Chaetodon trifascialis,Fish,Least Concern
+86,Broomtail Wrasse,Cheilinus lunulatus,Fish,Least Concern
+87,Whitebarred Wrasse,Cheilinus quinquecinctus,Fish,Least Concern
+88,Cheilio Wrasse,Cheilio inermis,Fish,Least Concern
+89,Heavybeak Parrotfish,Chlorurus gibbus,Fish,Least Concern
+90,Indian Ocean Steephead Parrotfish,Chlorurus strongylocephalus,Fish,Least Concern
