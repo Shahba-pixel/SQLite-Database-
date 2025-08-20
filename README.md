@@ -1,4 +1,4 @@
-# SQLite-Database-
+# SQLite-Database-Scuba_book.db
 Scuba_book: Dive deep into data—track dives, gear, and marine life with a schema built for insight and impact.
 
 Features
